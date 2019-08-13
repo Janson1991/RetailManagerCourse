@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMDataManager", "CRMDataMa
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CRMData", "CRMData\CRMData.sqlproj", "{67603C2B-E68A-4E7E-8F58-F2AAA18930DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMDesktopUI", "CRMDesktopUI\CRMDesktopUI.csproj", "{6E0CA7DB-1F0B-4BD2-8789-5CA7ED406BCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{67603C2B-E68A-4E7E-8F58-F2AAA18930DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67603C2B-E68A-4E7E-8F58-F2AAA18930DB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{67603C2B-E68A-4E7E-8F58-F2AAA18930DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6E0CA7DB-1F0B-4BD2-8789-5CA7ED406BCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0CA7DB-1F0B-4BD2-8789-5CA7ED406BCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0CA7DB-1F0B-4BD2-8789-5CA7ED406BCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0CA7DB-1F0B-4BD2-8789-5CA7ED406BCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
